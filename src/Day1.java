@@ -22,7 +22,7 @@ public class Day1 {
         arrayList.add(10);
 
         Integer k = 17;
-        Integer sum = 17;
+        Integer sum = 20;
 
         for (int i = 0; i <arrayList.size(); i++) {
             int possibleNum = sum - arrayList.get(i);
